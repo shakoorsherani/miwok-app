@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        // Set the content of the activity to use the activity_main.xml layout file
+        // Set the content of the activity to use the words_listl layout file
         setContentView(R.layout.activity_main);
 
         // Find the View that shows the numbers category
